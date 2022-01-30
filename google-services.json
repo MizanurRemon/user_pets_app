@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "32977239841",
+    "firebase_url": "https://user-pets-app-default-rtdb.firebaseio.com",
+    "project_id": "user-pets-app",
+    "storage_bucket": "user-pets-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32977239841:android:c711797a6c25c7b6ca0860",
+        "android_client_info": {
+          "package_name": "com.example.databaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32977239841-6sl8h9pshre66n1ni1c6bn6p7292gv48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzt3byo-1uOty_UI7CqAq_G5x08wDIQtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32977239841-6sl8h9pshre66n1ni1c6bn6p7292gv48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
