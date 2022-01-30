@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+
+        <shape android:shape="rectangle">
+
+            <size android:height="20dp" android:width="100dp"/>
+            <solid android:color="#DD1B1B" />
+            <!--To make a circle you have to set the corner value 1/2 of its button size(radius) -->
+
+            <corners android:radius="10dp"/>
+
+
+
+        </shape>
+    </item>
+</selector>
